@@ -32,7 +32,8 @@
 ---
 
 ## 🌐 Connect with Me
-- 🔗 GitHub: https://github.com/devasharjin  
+- 🔗 GitHub: https://github.com/devasharjin
+- 🔗 Linkedin : https://www.linkedin.com/in/deva-sharjin-b45530383
 
 ---
 
