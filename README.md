@@ -1,40 +1,111 @@
-# Hi 👋, I'm Deva Sharjin
+<h1 align="center">Hi 👋, I'm Deva Sharjin</h1>
+<h3 align="center">Full Stack Developer | Java • Spring Boot • React • PostgreSQL • MongoDB</h3>
 
-💻 Aspiring Full Stack Developer  
-🚀 Passionate about building web applications and learning new technologies  
+<p align="center">
+Building scalable full-stack applications with modern technologies.
+Currently focused on Java Backend Development, Spring Boot, Microservices, and React.
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Student interested in software development  
-- 🌱 Currently learning: JavaScript, React, Node.js  
-- 💡 Interested in Web Development, Databases, and Problem Solving  
-- 🔥 Goal: Become a professional Full Stack Developer  
+## 👨‍💻 About Me
+
+- 🎓 Aspiring Full Stack Java Developer
+- 💻 Passionate about designing scalable web applications
+- 🌱 Currently learning Spring Boot, Microservices, Docker, and System Design
+- ⚡ Strong interest in Backend Development, REST APIs, Authentication, and Database Design
+- 🎯 Goal: Secure a Software Engineer role and build production-quality applications
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 HTML | CSS | JavaScript  
-- 🐍 Python  
-- 🗄️ SQL & Databases  
-- ⚙️ Git & GitHub  
+
+### Languages
+- Java
+- JavaScript
+- TypeScript
+- SQL
+
+### Frontend
+- React
+- Vite
+- Redux Toolkit
+- TanStack Query (React Query)
+- Zustand
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Backend
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- Node.js
+- Express.js
+
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Postman
+- Docker
+- Maven
+- Gradle
+- VS Code
+- IntelliJ IDEA
 
 ---
 
-## 📊 GitHub Stats
-![Deva's GitHub stats](https://github-readme-stats.vercel.app/api?username=devasharjin&show_icons=true&theme=tokyonight)
+## 🚀 Featured Projects
+
+### 🛒 Full Stack E-Commerce Platform
+- Secure JWT Authentication
+- Role-based Authorization
+- Product & Category Management
+- Shopping Cart & Checkout
+- Order Management
+- Admin Dashboard
+- Responsive UI
+- RESTful APIs
+
+**Tech Stack:** React, Spring Boot, PostgreSQL, MongoDB, JWT
 
 ---
 
-## 🔥 Streak Stats
+## 📚 Currently Learning
+
+- Spring Boot
+- Spring Security
+- Microservices
+- Docker
+- AWS
+- Redis
+- Kafka
+- System Design
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devasharjin&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devasharjin&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=devasharjin&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with Me
-- 🔗 GitHub: https://github.com/devasharjin
-- 🔗 Linkedin : https://www.linkedin.com/in/deva-sharjin-b45530383
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/devasharjin
+- LinkedIn: https://www.linkedin.com/in/deva-sharjin-b45530383
 
 ---
 
-⭐️ Keep learning, keep building!
+> "Code. Learn. Build. Improve. Repeat."
